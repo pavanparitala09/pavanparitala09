@@ -1,6 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Pavan Kumar Paritala</h1>
 <h3 align="center">Software Developer & AI Enthusiast 🚀</h3>
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=pavanparitala09)
 <hr>
 <h3>🚀 About Me</h3>
 <p>
