@@ -25,7 +25,7 @@ I enjoy transforming ideas into practical, scalable solutions through code.
 </ul>
 
 - 📫 Reach me at: <b>pavankumarparitala2580@gmail.com</b>  
-- 📄 View my experience: <a href="https://drive.google.com/file/d/1EN3nE4hewNxL7TOY3nWxsr4aGhSerzb-/view?usp=drive_link">Resume</a>
+- 📄 View my experience: <a href="https://drive.google.com/file/d/10x5sdN2oW_s9TdVjlfuds6jvC_b1TTPM/view?usp=drive_link">Resume</a>
 <hr>
 
 <h3 align="left">Connect with me:</h3>
